@@ -1,5 +1,5 @@
 import { Routes } from '@angular/router';
-import { CoursesComponent } from './components/courses';
+import { CoursesComponent } from './components/catalog.component';
 import { RegisterComponent } from './components/sign-in';
 import { SignInComponent } from './components/sign-in';
 
